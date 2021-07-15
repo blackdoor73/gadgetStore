@@ -27,16 +27,12 @@
     font-weight: 600;
    background-color: silver;
    width: 100%;
-   padding-top: 2%;
-   height: 10vh;
 }
 
 .mid{
     background-color: rgba(0,61,79,255);
-    height: 50vh;
-    text-align: center;
-    font-size: 165px;
-    font-weight: 600;
     color: white;
+    padding: 1%;
 }
+
 
