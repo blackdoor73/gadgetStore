@@ -1,0 +1,15 @@
+Pages for different articles
+    - 
+    - 
+    - 
+    - 
+NavBar
+    - Top Microwave
+    - Hot Deals
+    - Accessories
+    - About us
+    - Search Box
+        - jdwekb
+        - 
+    
+To DO List
